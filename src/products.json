@@ -1,0 +1,47 @@
+[
+  {
+    "model": "AirJordan 1",
+    "description": "Zapatillas icónicas con diseño clásico",
+    "price": 1500,
+    "code": "AJ1-001",
+    "stock": 5,
+    "image": [],
+    "id": 1
+  },
+  {
+    "model": "AirJordan 4",
+    "description": "Zapatillas de baloncesto con tecnología de amortiguación avanzada",
+    "price": 1800,
+    "code": "AJ4-003",
+    "stock": 8,
+    "image": [],
+    "id": 2
+  },
+  {
+    "model": "AirJordan 6",
+    "description": "Zapatillas de edición especial en colaboración con un artista famoso",
+    "price": 2200,
+    "code": "AJ6-005",
+    "stock": 3,
+    "image": [],
+    "id": 3
+  },
+  {
+    "model": "AirJordan 11",
+    "description": "Zapatillas de alto rendimiento para deportes indoor y outdoor",
+    "price": 2000,
+    "code": "AJ11-007",
+    "stock": 12,
+    "image": [],
+    "id": 4
+  },
+  {
+    "model": "AirJordan 13",
+    "description": "Zapatillas con diseño moderno y elegante, ideales para el día a día",
+    "price": 1700,
+    "code": "AJ13-010",
+    "stock": 6,
+    "image": [],
+    "id": 5
+  }
+]
